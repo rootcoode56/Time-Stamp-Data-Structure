@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1711608389 source:c:\users\asif tanjim\documents\timelapse\main.cpp
+	<iostream>
+	"sortedtype.h"
+
+1711608180 c:\users\asif tanjim\documents\timelapse\sortedtype.h
+
+1711608455 source:c:\users\asif tanjim\documents\timelapse\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1711606524 source:c:\users\asif tanjim\documents\timelapse\timestamp.cpp
+	<iostream>
+	<iomanip>
+
+1711605885 c:\users\asif tanjim\documents\timelapse\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
